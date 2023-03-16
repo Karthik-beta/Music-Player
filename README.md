@@ -14,7 +14,7 @@ This is a simple music player built using HTML, CSS, and JavaScript without the 
 
 To use this project, simply clone the repository to your local machine using the following command:
 
-git clone https://github.com/Karthik-beta/Music-Player.git
+git clone : (https://github.com/Karthik-beta/Music-Player.git)
 
 
 Then, open the project folder and open the index.html file in your web browser.
