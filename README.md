@@ -2,6 +2,8 @@
 
 This is a simple music player built using HTML, CSS, and JavaScript without the use of a database. The purpose of this project is to provide a user-friendly interface to play and manage music tracks without the need for a backend database.
 
+![Screen Shot](images/MusicPlayer.png)
+
 ## Table of Contents
 
 * Installation
